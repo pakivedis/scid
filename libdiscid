@@ -1,0 +1,17 @@
+Scanning dependencies of target libdiscid
+[  9%] Building C object CMakeFiles/libdiscid.dir/src/toc.c.o
+[ 18%] Building C object CMakeFiles/libdiscid.dir/src/unix.c.o
+[ 27%] Building C object CMakeFiles/libdiscid.dir/src/disc_linux.c.o
+[ 36%] Building C object CMakeFiles/libdiscid.dir/src/base64.c.o
+[ 45%] Building C object CMakeFiles/libdiscid.dir/src/disc.c.o
+[ 54%] Building C object CMakeFiles/libdiscid.dir/src/sha1.c.o
+[ 63%] Linking C shared library libdiscid.so
+[ 63%] Built target libdiscid
+Scanning dependencies of target discid
+[ 72%] Building C object CMakeFiles/discid.dir/examples/discid.c.o
+[ 81%] Linking C executable discid
+[ 81%] Built target discid
+Scanning dependencies of target discisrc
+[ 90%] Building C object CMakeFiles/discisrc.dir/examples/discisrc.c.o
+[100%] Linking C executable discisrc
+[100%] Built target discisrc

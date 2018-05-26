@@ -1,0 +1,1 @@
+/usr/bin/cc   -Wall -O2   CMakeFiles/test_put.dir/test/test.c.o CMakeFiles/test_put.dir/test/test_put.c.o  -o test_put -rdynamic libdiscid.so.0.6.2 -Wl,-rpath,/home/predator/Documents/Project/temp/libdiscid 

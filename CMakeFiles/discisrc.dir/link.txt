@@ -1,0 +1,1 @@
+/usr/bin/cc   -Wall -O2   CMakeFiles/discisrc.dir/examples/discisrc.c.o  -o discisrc -rdynamic libdiscid.so.0.6.2 -Wl,-rpath,/home/predator/Documents/Project/temp/libdiscid 

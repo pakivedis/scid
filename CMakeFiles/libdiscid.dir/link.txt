@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC  -Wall -O2  -shared -Wl,-soname,libdiscid.so.0 -o libdiscid.so.0.6.2 CMakeFiles/libdiscid.dir/src/toc.c.o CMakeFiles/libdiscid.dir/src/unix.c.o CMakeFiles/libdiscid.dir/src/disc_linux.c.o CMakeFiles/libdiscid.dir/src/base64.c.o CMakeFiles/libdiscid.dir/src/disc.c.o CMakeFiles/libdiscid.dir/src/sha1.c.o 

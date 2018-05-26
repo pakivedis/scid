@@ -1,0 +1,17 @@
+/home/predator/Documents/Project/temp/libdiscid/CMakeFiles/install.dir
+/home/predator/Documents/Project/temp/libdiscid/CMakeFiles/rebuild_cache.dir
+/home/predator/Documents/Project/temp/libdiscid/CMakeFiles/edit_cache.dir
+/home/predator/Documents/Project/temp/libdiscid/CMakeFiles/list_install_components.dir
+/home/predator/Documents/Project/temp/libdiscid/CMakeFiles/install/strip.dir
+/home/predator/Documents/Project/temp/libdiscid/CMakeFiles/test_core.dir
+/home/predator/Documents/Project/temp/libdiscid/CMakeFiles/discid.dir
+/home/predator/Documents/Project/temp/libdiscid/CMakeFiles/test_read_full.dir
+/home/predator/Documents/Project/temp/libdiscid/CMakeFiles/libdiscid.dir
+/home/predator/Documents/Project/temp/libdiscid/CMakeFiles/install/local.dir
+/home/predator/Documents/Project/temp/libdiscid/CMakeFiles/dist.dir
+/home/predator/Documents/Project/temp/libdiscid/CMakeFiles/test_put.dir
+/home/predator/Documents/Project/temp/libdiscid/CMakeFiles/discisrc.dir
+/home/predator/Documents/Project/temp/libdiscid/CMakeFiles/memcheck.dir
+/home/predator/Documents/Project/temp/libdiscid/CMakeFiles/docs.dir
+/home/predator/Documents/Project/temp/libdiscid/CMakeFiles/test_read.dir
+/home/predator/Documents/Project/temp/libdiscid/CMakeFiles/check.dir

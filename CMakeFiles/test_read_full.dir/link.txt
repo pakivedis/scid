@@ -1,0 +1,1 @@
+/usr/bin/cc   -Wall -O2   CMakeFiles/test_read_full.dir/test/test.c.o CMakeFiles/test_read_full.dir/test/test_read_full.c.o  -o test_read_full -rdynamic libdiscid.so.0.6.2 -Wl,-rpath,/home/predator/Documents/Project/temp/libdiscid 
